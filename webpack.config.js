@@ -23,13 +23,13 @@ module.exports = (env) => {
 						{
 							loader: 'css-loader',
 							options: {
-								sourseMap: true
+								sourceMap: true
 							}
 						},
 						{
 							loader: 'sass-loader',
 							options: {
-								sourseMap: true
+								sourceMap: true
 							}
 						}
 					]
